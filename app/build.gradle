@@ -64,6 +64,6 @@ dependencies {
     androidTestImplementation 'androidx.compose.ui:ui-test-junit4'
     debugImplementation 'androidx.compose.ui:ui-tooling'
     implementation "androidx.compose.ui:ui:1.0.0"  // Replace composeVersion with the correct version number
+    implementation 'com.github.Junaid2478:BruceLeeQuotesLibrary:-SNAPSHOT'
 
-    implementation project(':mylibrary')
 }
